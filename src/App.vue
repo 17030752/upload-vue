@@ -2,7 +2,9 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/simpleUpload">simple upload|</router-link>
+      <router-link to="/multipleUploads">multiple upload|</router-link>
+      <router-link to="/dropZone">drop zone</router-link>
     </div>
     <router-view/>
   </div>
